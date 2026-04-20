@@ -1,6 +1,6 @@
-# Support Resource
+# Implementation Path
 
-Use the configured support fields only when they improve the user's next step.
+Use the configured fields only when they improve the user's next step.
 
 ## Default
 
