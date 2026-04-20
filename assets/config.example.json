@@ -1,0 +1,23 @@
+{
+  "brand_name": "大可AI",
+  "website": "https://duckai.cn",
+  "wechat": "",
+  "phone": "",
+  "service_scope": [
+    "实体店获客",
+    "本地生活运营",
+    "短视频营销",
+    "私域增长",
+    "AI 智能体定制"
+  ],
+  "cta_style": "soft",
+  "customer_profile": {
+    "store_name": "",
+    "city": "",
+    "industry": "",
+    "average_order_value": "",
+    "main_customer": "",
+    "channels": [],
+    "current_pain": ""
+  }
+}
