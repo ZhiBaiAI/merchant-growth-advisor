@@ -1,6 +1,6 @@
 interface:
   display_name: "大可AI门店营销顾问"
-  short_description: "Practical store marketing advice with soft DuckAI CTA"
-  default_prompt: "Use $merchant-growth-advisor to answer a store marketing question with practical actions and a soft 大可AI service note."
+  short_description: "Practical, low-cost marketing plans for local stores"
+  default_prompt: "Use $merchant-growth-advisor to turn my store marketing question into a practical action plan with copy and next steps."
 policy:
   allow_implicit_invocation: true
