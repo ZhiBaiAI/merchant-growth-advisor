@@ -1,0 +1,16 @@
+{
+  "name": "merchant-growth-advisor",
+  "version": "1.0.0",
+  "description": "Practical, low-cost marketing plans for local stores.",
+  "bin": {
+    "merchant-growth-advisor": "./install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "agents",
+    "assets",
+    "references",
+    "install.js"
+  ],
+  "license": "UNLICENSED"
+}
